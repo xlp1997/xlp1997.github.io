@@ -360,7 +360,7 @@ body {
 	height: 20px;
 	background-image: url(../images/da-logo2.png);
 	background-repeat: no-repeat;
-	background-size: 100% 100%;
+	background-size: contain;
 	position: absolute;
 	bottom: 1px;
 	left: 50%;
