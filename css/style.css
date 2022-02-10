@@ -361,13 +361,11 @@ body {
 	background-image: url(../images/da-logo2.png);
 	background-repeat: no-repeat;
 	background-size: contain;
-	
 	position: absolute;
 	bottom: 1px;
 	left: 50%;
 	transform: rotate3d(-1, 0, 0, 45deg) scaleX(1) translateX(-50%);
 	z-index: 100;
-	
 }
 
 .road {
