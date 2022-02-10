@@ -351,7 +351,7 @@ body {
 	bottom: 17px;
 	left: 50%;
 	transform: rotate3d(-1, 0, 0, 45deg) scaleX(1) translateX(-50%);
-	z-index: 5;
+	z-index: 100;
 }
 
 .logo {
@@ -364,7 +364,7 @@ body {
 	bottom: 1px;
 	left: 50%;
 	transform: rotate3d(-1, 0, 0, 45deg) scaleX(1) translateX(-50%);
-	z-index: 5;
+	z-index: 100;
 }
 
 .road {
