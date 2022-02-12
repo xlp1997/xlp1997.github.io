@@ -364,7 +364,7 @@ body {
 	position: absolute;
 	bottom: 1px;
 	left: 50%;
-	transform: rotate3d(-1, 0, 0, 45deg) scaleX(1) translateX(-50%);
+	transform: translateX(-50%);
 	z-index: 100;
 }
 
