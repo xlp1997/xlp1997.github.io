@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e2517"],{"7dd8":function(t,n,e){"use strict";e.r(n);var o=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("div",[t._v("\n\taboutt\n")])},a=[],c={metaInfo:{title:"微品能源-关于我们",meta:[{name:"keywords",content:"aboutt1,关键字2,关键字3"},{name:"description",content:"这是一段网页的描述"}]}},u=c,i=e("2877"),l=Object(i["a"])(u,o,a,!1,null,null,null);n["default"]=l.exports}}]);
-//# sourceMappingURL=chunk-2d0e2517.a8cdebcb.js.map
